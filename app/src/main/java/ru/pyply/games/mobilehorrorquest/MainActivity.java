@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private void go(int i) {
         story.go(i + 1);
         updateStatus();
-        // если история закончилась, выводим на экран поздравление
+        // если история закончилась, выводим на экран результаты
         if (story.isEnd()) {
 
             String text;
