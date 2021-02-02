@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HorrorQuest</string>
+    <string name="desc">Описание ситуации</string>
+    <string name="title">Заголовок ситуации</string>
+    <string name="status">Статус</string>
+</resources>
